@@ -16,7 +16,7 @@ const preparePageForTests = async page => {
 
 //SCRAPE LINKS
 async function scrapeLinks(searchParameter) {
-  const totalPage = 50;
+  const totalPage = 5;
 
   console.log("searchParameter: ", searchParameter);
 
