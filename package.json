@@ -1,0 +1,20 @@
+{
+  "name": "plasticker_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.3.4",
+    "file-system": "^2.2.2",
+    "jquery": "^3.3.1",
+    "puppeteer": "^1.13.0",
+    "stream-transform": "^1.0.8",
+    "yargs": "^13.2.2"
+  }
+}
